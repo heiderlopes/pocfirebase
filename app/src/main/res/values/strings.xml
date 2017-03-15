@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseRestCrud</string>
+    <string name="title_activity_formulario">FormularioActivity</string>
+</resources>

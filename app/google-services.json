@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "803025002647",
+    "firebase_url": "https://demobaas-61559.firebaseio.com",
+    "project_id": "demobaas-61559",
+    "storage_bucket": "demobaas-61559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803025002647:android:2d382c2649dbc5fe",
+        "android_client_info": {
+          "package_name": "br.com.heiderlopes.firebaserestcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803025002647-gphtfujvolom2mfi79iq00hrs03lirjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOJggrq_I7sx3a751FrqEhPV_wJxW9DPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
